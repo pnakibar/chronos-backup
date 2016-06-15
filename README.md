@@ -17,4 +17,4 @@ Script to backup the Chronos jobs
 ## Known Issues
 - Jobs with dependencies:
   - Run the restore script 2 times (or more) for them to run;
-  - Yes, I'm not proud of this.
+    - Yes, I'm not proud of this.
