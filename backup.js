@@ -1,6 +1,6 @@
 var http = require("http");
 var fs = require('fs');
-const file = `./${process.argv[2]}`;
+const file = process.argv[2];
 const hostname = process.argv[3];
 const port = process.argv[4];
 const Authorization = process.argv[5];
